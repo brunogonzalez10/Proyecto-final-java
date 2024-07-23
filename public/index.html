@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego de Trivia - Historia del Mundial</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="icon" href="data:image/x-icon;," type="image/x-icon"> 
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div id="app">
+        <h1>Trivia sobre la Historia del Mundial de Fútbol</h1>
+        <div id="question-container">
+            <h2 id="question"></h2>
+            <div id="answers"></div>
+        </div>
+        <button id="next-btn">Siguiente Pregunta</button>
+    </div>
+
+
+    <!--scripts de jquery y toastr-->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            if (typeof toastr !== 'undefined') {
+                console.log('toastr está definido');
+                toastr.success('¡toastr está funcionando correctamente!');
+            } else {
+                console.error('toastr no está definido');
+            }
+        });
+    </script>
+    
+    <script src="js/proyectofinal.js"></script>
+</body>
+</html>

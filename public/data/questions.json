@@ -1,0 +1,92 @@
+[
+    {
+        "text": "¿En qué año se celebró el primer Mundial de Fútbol?",
+        "answers": [
+            { "text": "1930", "correct": true },
+            { "text": "1934", "correct": false },
+            { "text": "1928", "correct": false },
+            { "text": "1940", "correct": false }
+        ]
+    },
+    {
+        "text": "¿Qué país ha ganado más Copas del Mundo?",
+        "answers": [
+            { "text": "Brasil", "correct": true },
+            { "text": "Alemania", "correct": false },
+            { "text": "Italia", "correct": false },
+            { "text": "Argentina", "correct": false }
+        ]
+    },
+    {
+        "text": "¿Quién fue el máximo goleador del Mundial de 2002?",
+        "answers": [
+            { "text": "Ronaldo", "correct": true },
+            { "text": "Miroslav Klose", "correct": false },
+            { "text": "Thierry Henry", "correct": false },
+            { "text": "Gabriel Batistuta", "correct": false }
+        ]
+    },
+    {
+        "text": "¿Qué país ganó la Copa Mundial de la FIFA en 1966?",
+        "answers": [
+            { "text": "Brasil", "correct": false },
+            { "text": "Alemania", "correct": false },
+            { "text": "Inglaterra", "correct": true },
+            { "text": "Argentina", "correct": false }
+        ]
+    },
+    {
+        "text": "¿Que jugador ganó mas Copas del Mundo?",
+        "answers": [
+            { "text": "Pele", "correct": true },
+            { "text": "Ronaldo Nazario", "correct": false },
+            { "text": "Zidane", "correct": false },
+            { "text": "Franz Beckenbauer", "correct": false }
+        ]
+    },
+    {
+        "text": "¿Qué selección ganó el Mundial de 2014?",
+        "answers": [
+            { "text": "España", "correct": false },
+            { "text": "Alemania", "correct": true },
+            { "text": "Argentina", "correct": false },
+            { "text": "Brasil", "correct": false }
+        ]
+    },
+    {
+        "text": "¿Qué jugador es el máximo goleador de la historia de los Mundiales?",
+        "answers": [
+            { "text": "Pele", "correct": false },
+            { "text": "Miroslav Klose", "correct": true },
+            { "text": "Diego Maradona", "correct": false },
+            { "text": "Cristiano Ronaldo", "correct": false }
+        ]
+    },
+    {
+        "text": "¿Qué país fue el anfitrión del Mundial de 1998?",
+        "answers": [
+            { "text": "Italia", "correct": false },
+            { "text": "Francia", "correct": true },
+            { "text": "México", "correct": false },
+            { "text": "Alemania", "correct": false }
+        ]
+    },
+    {
+        "text": "¿Qué selección ganó el Mundial de 1978?",
+        "answers": [
+            { "text": "Argentina", "correct": true },
+            { "text": "Brasil", "correct": false },
+            { "text": "Países Bajos", "correct": false },
+            { "text": "Alemania", "correct": false }
+        ]
+    },
+    {
+        "text": "¿Cuál fue el primer país europeo en ganar la Copa Mundial?",
+        "answers": [
+            { "text": "Inglaterra", "correct": false },
+            { "text": "Francia", "correct": false },
+            { "text": "Italia", "correct": true },
+            { "text": "Alemania", "correct": false }
+        ]
+    }
+]
